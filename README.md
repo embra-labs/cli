@@ -1,6 +1,6 @@
 # Embra CLI
 
-The command-line client for [Embra](https://embra.cloud/), an app hosting platform being built for teams in Vietnam, with Postgres at the heart of the deployment workflow.
+The command-line client for [Embra](https://embra.cloud/), app and PostgreSQL hosting being built for developers and small teams in Vietnam. The intended workflow covers building, deploying, and following your app, with database review and recovery preparation.
 
 **Status: in development.** This repository is reserved for the public CLI. There is no public release or supported installation command yet.
 
